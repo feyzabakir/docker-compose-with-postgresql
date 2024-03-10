@@ -67,4 +67,18 @@ GET: `localhost:3000/student`
 
 POST: `localhost:3000/student/add`  body -> raw alanından JSON formatında verilerinizi ekleyebilirsiniz.
 
+## Resimler
 
+![1](https://github.com/feyzabakir/devops-odev/assets/120409251/9bb1f717-b507-4e10-b029-50fa962456c2)
+
+![2](https://github.com/feyzabakir/devops-odev/assets/120409251/5db0a897-5c71-45fe-b92e-db00cf4885ca)
+
+![3](https://github.com/feyzabakir/devops-odev/assets/120409251/84fdffce-6851-4f48-8a01-75465db913fc)
+
+![4](https://github.com/feyzabakir/devops-odev/assets/120409251/9c39709f-d109-4b3f-b75d-7f22ceb00e0f)
+
+![5](https://github.com/feyzabakir/devops-odev/assets/120409251/17c5c311-9c02-427c-9da6-e9f402ff1721)
+
+## Video
+
+<a href="https://github.com/feyzabakir/devops-odev/issues/1">Video Link</a>
