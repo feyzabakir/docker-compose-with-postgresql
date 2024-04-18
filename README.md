@@ -46,10 +46,10 @@ docker rm app
 ```
 
 ```bash
-docker-compose up -d
+docker-compose up 
 ```
 
-Running için tekrar
+Running için 
 
 ```bash
 docker-compose up -d
